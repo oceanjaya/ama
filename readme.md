@@ -1,15 +1,13 @@
 # Ask me anything!
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
-
-I get a lot of questions by email. This way anyone can read the answer!
+## [想问点啥](../../issues/new) &nbsp;&nbsp;&nbsp; [看看别人问过些什么](../../issues?q=is%3Aissue+is%3Aclosed)
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
-
+随意问 ~\(≧▽≦)/~ 啦啦啦～
 -
 
 ### Guidelines
-
 - Ensure your question hasn't already been answered.
 - Use a succinct title and description.
 - Bugs & feature requests should be opened on the relevant issue tracker.
